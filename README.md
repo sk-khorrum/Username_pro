@@ -258,7 +258,7 @@ https://khorrum.pro.bd
 
 GitHub
 
-https://github.com/skkhorrum
+https://github.com/sk-khorrum
 
 ---
 
@@ -285,12 +285,6 @@ https://khorrum.pro.bd
 Live Demo
 
 https://usernamepro.onrender.com
-
----
-
-# License
-
-MIT License
 
 ---
 
