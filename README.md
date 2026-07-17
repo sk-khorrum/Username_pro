@@ -1,7 +1,7 @@
 # Username Pro – Check Username Availability Across 100+ Platforms
 
 <p align="center">
-  <img src="assets/.aistudio/usernamepro.png" alt="Username Pro Logo" width="120">
+  <img src="assets/usernamepro.png" alt="Username Pro Logo" width="120">
 </p>
 
 <h1 align="center">Username Pro</h1>
